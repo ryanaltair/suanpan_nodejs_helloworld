@@ -1,3 +1,8 @@
+## how to
+please see
+
+https://www.yuque.com/suanpan_doc/public/node_js_sdk_readme
+
 ## 如何构建容器
 ### 修改待推送容器名字与标签
 - `nano docker/imagename`
